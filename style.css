@@ -17,7 +17,7 @@ body {
   justify-content: space-between;
   flex-wrap: wrap;
   padding: 15px 60px;
-  background-color: rgb(29, 28, 28);
+  background-color: hsla(0, 0%, 0%, 0.86);
   align-items: center;
   z-index: 1;
   
